@@ -10,7 +10,7 @@
                 ||     ||
 
 
-This work was performed at TII, in thisrepository you will find the sources and the dataset that have been used for the diffrent experiments.
+This work was performed at TII, in this repository you will find the sources and the dataset that have been used for the diffrent experiments.
 
 # Repository structure
 
